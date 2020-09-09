@@ -313,22 +313,22 @@ nav.links ul li a:hover {
 .shop-room-1 {
 
     grid-area: shop-room-1;
-    background: url('/images/bedroom.jpg') no-repeat center center/cover;
+    background: url('images/bathroom.jpg') no-repeat center center/cover;
 }
 
 .shop-room-2 {
     grid-area: shop-room-2;
-    background: url('/images/livingroom.jpg') no-repeat center center/cover;
+    background: url('images/livingroom.jpg') no-repeat center center/cover;
 }
 
 .shop-room-3 {
     grid-area: shop-room-3;
-    background: url('/images/bathroom.jpg') no-repeat center center/cover;
+    background: url('images/bathroom.jpg') no-repeat center center/cover;
 }
 
 .shop-room-4 {
     grid-area: shop-room-4;
-    background: url('/images/kitchenroom.jpg') no-repeat;
+    background: url('images/kitchenroom.jpg') no-repeat;
     background-position: left;
 }
 
@@ -406,25 +406,25 @@ nav.links ul li a:hover {
 
 .product-items-images .img-1 {
     grid-area: img-1;
-    background: url('/images/feature-1.jpg') no-repeat center center/cover;
+    background: url('images/feature-1.jpg') no-repeat center center/cover;
     position: relative;
 }
 
 .product-items-images .img-2 {
     grid-area: img-2;
-    background: url('/images/feature-2.jpg') no-repeat center center/cover;
+    background: url('images/feature-2.jpg') no-repeat center center/cover;
     position: relative;
 }
 
 .product-items-images .img-3 {
     grid-area: img-3;
-    background: url('/images/feature-3.jpg') no-repeat center center/cover;
+    background: url('images/feature-3.jpg') no-repeat center center/cover;
     position: relative;
 }
 
 .product-items-images .img-4 {
     grid-area: img-4;
-    background: url('/images/feature-4.jpg') no-repeat center center/cover;
+    background: url('images/feature-4.jpg') no-repeat center center/cover;
     position: relative;
 }
 
@@ -436,19 +436,19 @@ nav.links ul li a:hover {
 
 .product-items-images .img-6 {
     grid-area: img-6;
-    background: url('/images/feature-6.jpg') no-repeat center center/cover;
+    background: url('images/feature-6.jpg') no-repeat center center/cover;
     position: relative;
 }
 
 .product-items-images .img-7 {
     grid-area: img-7;
-    background: url('/images/feature-7.jpg') no-repeat center center/cover;
+    background: url('images/feature-7.jpg') no-repeat center center/cover;
     position: relative;
 }
 
 .product-items-images .img-8 {
     grid-area: img-8;
-    background: url('/images/feature-8.jpg') no-repeat center center/cover;
+    background: url('images/feature-8.jpg') no-repeat center center/cover;
     position: relative;
 }
 
@@ -853,27 +853,27 @@ nav.links ul li a:hover {
 
 .homestore-1 {
     grid-area: homestore-1;
-    background: url('/images/homestore-1.jpg') no-repeat center center/cover;
+    background: url('images/homestore-1.jpg') no-repeat center center/cover;
 }
 
 .homestore-2 {
     grid-area: homestore-2;
-    background: url('/images/homestore-2.jpg') no-repeat center center/cover;
+    background: url('images/homestore-2.jpg') no-repeat center center/cover;
 }
 
 .homestore-3 {
     grid-area: homestore-3;
-    background: url('/images/homestore-3.jpg') no-repeat center center/cover;
+    background: url('images/homestore-3.jpg') no-repeat center center/cover;
 }
 
 .homestore-4 {
     grid-area: homestore-4;
-    background: url('/images/homestore-4.jpg') no-repeat center center/cover;
+    background: url('images/homestore-4.jpg') no-repeat center center/cover;
 }
 
 .homestore-5 {
     grid-area: homestore-5;
-    background: url('/images/homestore-5.jpg') no-repeat center center/cover;
+    background: url('images/homestore-5.jpg') no-repeat center center/cover;
 }
 
 /* -----footer----- */
@@ -1046,7 +1046,7 @@ footer .top-footer {
             'discount-2'
             'discount-3'
             'discount-4';
-           
+
 
     }
 
