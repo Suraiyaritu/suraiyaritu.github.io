@@ -133,7 +133,7 @@ nav.links ul li a:hover {
 
 .hero-left {
     margin-right: 150px;
-    background: url('/images/white-ceramic-vase-near-brown-metal-case-1029799.jpg') no-repeat center center/cover;
+    background: url('images/white-ceramic-vase-near-brown-metal-case-1029799.jpg') no-repeat center center/cover;
     position: relative;
     width: 300px;
     min-height: 450px;
@@ -168,7 +168,7 @@ nav.links ul li a:hover {
 
 /*------*/
 .hero-right {
-    background: url("/images/right-sofa.jpg") no-repeat center center/cover;
+    background: url("images/right-sofa.jpg") no-repeat center center/cover;
     position: relative;
     width: 500px;
     min-height: 600px;
@@ -430,7 +430,7 @@ nav.links ul li a:hover {
 
 .product-items-images .img-5 {
     grid-area: img-5;
-    background: url('/images/feature-5.jpg') no-repeat center center/cover;
+    background: url('images/feature-5.jpg') no-repeat center center/cover;
     position: relative;
 }
 
