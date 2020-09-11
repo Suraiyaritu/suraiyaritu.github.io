@@ -738,6 +738,12 @@ nav.links ul li a:hover {
     border-bottom: 2px solid rgb(148, 137, 137);
 }
 
+:focus{
+    outline: none;
+}
+form input{
+    flex:1;
+}
 .discount-4 form input[type=text] {
     border: none;
     padding: 6px 0;
