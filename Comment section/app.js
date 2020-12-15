@@ -1,12 +1,13 @@
 const inputComment = document.querySelector('.input-comment');
 const pressBtn = document.querySelector('.press-btn');
 const textLists = document.querySelector('.text-lists');
+const deleteBtn = document.querySelector('.delete-btn');
 
 
 pressBtn.addEventListener('click', textListsCreate);
 window.addEventListener('keypress', keyShow);
 window.addEventListener('DOMContentLoaded', getText);
-
+deleteBtn.addEventListener('click', removeLocalS);
 
 function keyShow(e) {
     if (e) {
@@ -71,4 +72,9 @@ textItems.forEach(function(titems){
    
 
 })
+}
+
+function removeLocalS(comment){
+textLists.remove();
+localStorage.clear()
 }

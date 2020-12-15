@@ -81,3 +81,16 @@ input {
 .press-btn-remove{
     display: block;
 }
+
+.delete-btn{
+    text-align: center;
+    
+   
+}
+.delete-btn button{
+     padding:.5rem;
+     background: rgb(255, 2, 2);
+     border:none;
+     color:rgb(255, 255, 255);
+     border-radius: 5px;
+}
